@@ -1,6 +1,6 @@
-<img src = "https://github.com/ranjeeta01/ranjeeta01.github.io/blob/master/portfolio_img.jpg"> 
+<img src = "https://github.com/ranjeeta01/ranjeeta01.github.io/blob/master/portfolio_img.jpg" style="height: 100px; width:100px;"/> 
 
-! [portfolio](portfolio_img.jpg) \ 
+! [portfolio](portfolio_img.jpg "portfolio")\ 
 Hey, I am **Ranjeeta** , a 4th year Undergraduate student at **National Institute of Technology, Silchar**. 
 
 ## Skills
