@@ -1,4 +1,4 @@
-![image] (portfolio_img.jpg)
+![alt text] (https://github.com/ranjeeta01/ranjeeta01.github.io/blob/master/portfolio_img.jpg)
 Hey, I am **Ranjeeta** , a 4th year Undergraduate student at **National Institute of Technology, Silchar**.
 
 ## Skills
