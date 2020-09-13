@@ -1,25 +1,19 @@
-## Welcome to my porfolio site
-
+![Image] (portfolio_img.jpg)
 Hey, I am **Ranjeeta** , a 4th year Undergraduate student at **National Institute of Technology, Silchar**.
 
-### Markdown
+## Skills
+- C++
+- Python
+- Javascript
+- ReactJS
+- AWS
+- MongoDb
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Experiences
+- **Software Developer Intern @ Amazon, India**
+Developed a web application with shopping website like features and presented a working protoype within 6 weeks.
+Documented the project along with long term goals.
 
-```markdown
-Syntax highlighted code block
+- **Vice President @ ECS Society, NIT Silchar**
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+- **PR and Technical member @ ECell, NIT Silchar**
