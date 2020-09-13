@@ -1,22 +1,22 @@
-## Welcome to my porfolio site
-![Image] (ranjeeta01/ranjeeta01.github.io/portfolio_img.jpg)
+![Image] (portfolio_img.jpg)
 Hey, I am **Ranjeeta** , a 4th year Undergraduate student at **National Institute of Technology, Silchar**.
-
-
+```markdown 
+## Skills
+- C++
+- Python
+- Javascript
+- ReactJS
+- AWS
+- MongoDb
+```
 ```markdown
-Syntax highlighted code block
+## Experiences
+- **Software Developer Intern @ Amazon, India**
+Developed a web application with shopping website like features and presented a working protoype within 6 weeks.
+Documented the project along with long term goals.
 
-# Header 1
-## Header 2
-### Header 3
+- **Vice President @ ECS Society, NIT Silchar**
 
-- Bulleted
-- List
+- **PR and Technical member @ ECell, NIT Silchar**
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
