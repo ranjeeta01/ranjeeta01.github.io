@@ -1,8 +1,9 @@
-! [portfolio](portfolio_img.jpg "portfolio")\ 
-Hey, I am **Ranjeeta** , a 4th year Undergraduate student at **National Institute of Technology, Silchar**. 
+! [portfolio](portfolio_img.jpg "portfolio") 
+<img src = "https://static.vecteezy.com/system/resources/previews/000/229/543/non_2x/vector-young-indian-woman-as-female-developer-profession.jpg" style="height: 100px; width:100px; float:right"/> 
+\Hey, I am **Ranjeeta** , a 4th year Undergraduate student at **National Institute of Technology, Silchar**. 
 
 ## Skills
-- C++                  <img src = "https://static.vecteezy.com/system/resources/previews/000/229/543/non_2x/vector-young-indian-woman-as-female-developer-profession.jpg" style="height: 100px; width:100px; float:right"/> 
+- C++                  
 - Python
 - Javascript
 - ReactJS
