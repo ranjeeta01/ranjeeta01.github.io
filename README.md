@@ -1,5 +1,5 @@
 ## Welcome to my porfolio site
-![Image] (portfolio_img)
+![Image] (ranjeeta01/ranjeeta01.github.io/portfolio_img.jpg)
 Hey, I am **Ranjeeta** , a 4th year Undergraduate student at **National Institute of Technology, Silchar**.
 
 
