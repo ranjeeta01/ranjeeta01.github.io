@@ -1,4 +1,4 @@
-![Image] (portfolio_img.jpg)
+![image] (portfolio_img.jpg)
 Hey, I am **Ranjeeta** , a 4th year Undergraduate student at **National Institute of Technology, Silchar**.
 
 ## Skills
