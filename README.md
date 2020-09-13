@@ -1,7 +1,7 @@
 Hey, I am **Ranjeeta** , a 4th year Undergraduate student at **National Institute of Technology, Silchar**. 
 
-## Skills
-- C++   <img src = "https://static.vecteezy.com/system/resources/previews/000/229/543/non_2x/vector-young-indian-woman-as-female-developer-profession.jpg" style="height: 300px; width:300px; float:right"/>                 
+## Skills   <img src = "https://static.vecteezy.com/system/resources/previews/000/229/543/non_2x/vector-young-indian-woman-as-female-developer-profession.jpg" style="height: 200px; width:200px; float:right"/>
+- C++                    
 - Python
 - Javascript
 - ReactJS
