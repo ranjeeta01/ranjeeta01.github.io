@@ -7,11 +7,13 @@ Hey, I am **Ranjeeta** , a 4th year Undergraduate student at **National Institut
 - ReactJS
 - AWS
 - MongoDb
+- Opensource 
 
 ## Experiences
 - **Software Developer Intern @ Amazon, India**\
  Developed a web application with shopping website like features and presented a working protoype within 6 weeks.\
- Documented the project along with long term goals.
+ Documented the project along with long term goals which included recommendation model integration in the prototype.\
+ Created an API endpoint for the web app along with the dataset.
 
 - **Vice President @ ECS Society, NIT Silchar**
 
