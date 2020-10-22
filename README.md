@@ -1,12 +1,14 @@
 ### Hey there! I'm Ranjeeta. 
 <img width="35%" align="right" alt="Github" src = "https://static.vecteezy.com/system/resources/previews/000/229/543/non_2x/vector-young-indian-woman-as-female-developer-profession.jpg" />
 <h3>👩💻 &nbsp;About Me </h3>
+
 - 🤔 &nbsp; Exploring new technologies and developing web applications.
 - 🎓 &nbsp; I’m currently Pursuing my Bachelor of Technology in Electronics And Communication Engineering at National Institute of Technology Silchar.
 - 💼 &nbsp; I’m looking for a Software Development Fulltime roles.
 - 🌱 &nbsp; Learning more about ReactJS and fond of problem solving.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Python](https://img.shields.io/badge/python-v3.7-blue?style=flat&logo=Python)
@@ -31,11 +33,12 @@
 <br/>
 
 <a href="https://github.com/ranjeeta01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VipulKhandelwal1999&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipulKhandelwal1999&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranjeeta01&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeeta01&theme=buefy&layout=compact" />
 </a>
 
 <br/>
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
