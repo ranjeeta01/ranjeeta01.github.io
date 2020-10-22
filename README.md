@@ -41,6 +41,6 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p>
 <a href="https://linkedin.com/in/ranjeeta-kumari-6b7397182/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ranjeeta%20Kumari-blue?style=flat-square&logo=linkedin"></a>
 </p>
